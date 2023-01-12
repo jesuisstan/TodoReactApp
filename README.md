@@ -1,43 +1,24 @@
 # TodoReactApp
 ### Getting Started with React
-This is my very first WebApp. It is about getting started with React. 
-This simple web application allows you to create your own todos list and manage with each todo.
-The project demonstrates basic knoledgement on working with React, ReactComponents, JSX, ReactHooks, html, css.
+This is my very first WebApp. It is about getting started with React.\
+This simple web application allows you to create your own todos list and manage with each todo.\
+The project demonstrates basic knoledgement on working with React, ReactComponents, JSX, ReactHooks, html, css.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Requirements
 - installed NPM
 
-In the project directory, you can run:
-### `npm start`
+## How to use
+In project directory:
+### To run the production build of the app
+1. Run the command "npm install -g serve" in console to install [serve](https://github.com/vercel/serve) and let it handle the rest.
+2. Run the command "serve -s build" in console to start 'TodoReactApp'.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### To run the app in the development mode
+1. Run the command "npm install" in console to install all the dependencies according to 'package.json' file.
+2. Run the command "npm start" in console to start 'TodoReactApp'.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes in code.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
