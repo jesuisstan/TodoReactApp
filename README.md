@@ -2,7 +2,7 @@
 ### Getting Started with React
 This is my very first WebApp. It is about getting started with React.\
 This simple web application allows you to create your own todos list and manage with each todo.\
-The project demonstrates basic knoledgement on working with React, ReactComponents, JSX, ReactHooks, html, css.\
+The project demonstrates basic knowledgement on working with html, css, React, JSX, useState hook.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demonstration
