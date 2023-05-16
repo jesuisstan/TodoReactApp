@@ -22,6 +22,3 @@ In project directory:
 1. Run the command "npm install" in console to install all the dependencies according to 'package.json' file.
 2. Run the command "npm start" in console to start 'TodoReactApp'.
 3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes in code.\
-You may also see any lint errors in the console.
