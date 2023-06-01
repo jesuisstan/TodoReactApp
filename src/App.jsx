@@ -45,7 +45,6 @@ function App() {
   return (
     <div className="App">
       <h1>Todo app</h1>
-      <hr color="salmon" />
       <TodoForm addTodo={addTodoHandler} />
       {!!todos.length && (
         <TodosActions
